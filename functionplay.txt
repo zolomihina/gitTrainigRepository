@@ -1,0 +1,11 @@
+function play() {
+    document.rabin.play()
+}
+
+function play() {
+    document.rabin.play(1)
+}
+
+function play() {
+    document.rabin.play(2)
+}
